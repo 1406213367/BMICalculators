@@ -3,7 +3,7 @@ package globals
 import (
 	"gorm.io/gorm"
 
-	"github.com/ahlemarg/BMI/src/config"
+	"github.com/hunter/BMI/src/config"
 )
 
 var (

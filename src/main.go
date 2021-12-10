@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/ahlemarg/BMI/src/handlers"
-	_ "github.com/ahlemarg/BMI/src/initialization"
+	"github.com/hunter/BMI/src/handlers"
+	_ "github.com/hunter/BMI/src/initialization"
 )
 
 func main() {

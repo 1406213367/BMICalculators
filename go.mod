@@ -1,4 +1,4 @@
-module github.com/ahlemarg/BMI
+module github.com/hunter/BMI
 
 go 1.16
 

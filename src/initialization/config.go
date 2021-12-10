@@ -3,7 +3,7 @@ package initialization
 import (
 	"github.com/spf13/viper"
 
-	"github.com/ahlemarg/BMI/src/globals"
+	"github.com/hunter/BMI/src/globals"
 )
 
 func GetEnv(env string) bool {

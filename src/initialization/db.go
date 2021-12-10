@@ -9,7 +9,7 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 
-	"github.com/ahlemarg/BMI/src/globals"
+	"github.com/hunter/BMI/src/globals"
 )
 
 func init() {

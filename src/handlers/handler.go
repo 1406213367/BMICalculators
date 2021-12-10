@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ahlemarg/BMI/src/globals"
-	"github.com/ahlemarg/BMI/src/model"
+	"github.com/hunter/BMI/src/globals"
+	"github.com/hunter/BMI/src/model"
 )
 
 func Change(pointer string) int {
